@@ -112,7 +112,7 @@ setInterval(function() {
         $('#GeoPrims').text(GeoPrims);
         $('#ProcMem').text(ProcMem);
     })
-}, 1000);
+}, <?php echo $refreshrate; ?>);
 </script>
 
 <?php if ($params->get('jsonstatsversion')): ?>

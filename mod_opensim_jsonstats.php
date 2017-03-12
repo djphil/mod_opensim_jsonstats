@@ -28,6 +28,7 @@ $b = $params->get('domainport');
 $c = $params->get('jsonstatsssl');
 $d = $params->get('jsonstatsuri');
 $jsonstatsURI = getjSonStatsURI($a, $b, $c, $d);
+$refreshrate = $params->get('jsonstatsrefreshrate');
 // $version = $params->get('jsonstatsversion');
 // $json = curl_get_contents($jsonstatsURI);
 
