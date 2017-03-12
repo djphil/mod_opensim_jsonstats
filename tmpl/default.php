@@ -131,261 +131,261 @@ setInterval(function() {
     </thead>
     
     <tbody>
-		<tr>
-			<td>Dilatn</td>
-			<td class="text-right">
-                <span id="Dilatn" class="label label-default">
-                    <i class="glyphicon glyphicon-refresh spin"></i>
-                </span>
-            </td>
-        </tr>
-        
-		<tr>
-			<td>SimFPS</td>
-			<td class="text-right">
-                <span id="SimFPS" class="label label-default">
-                     <i class="glyphicon glyphicon-refresh spin"></i>
-                </span>
-            </td>
-        </tr>
+    <tr>
+        <td>Dilatn</td>
+        <td class="text-right">
+            <span id="Dilatn" class="label label-default">
+                <i class="glyphicon glyphicon-refresh spin"></i>
+            </span>
+        </td>
+    </tr>
 
-        <tr>
-			<td>PhyFPS</td>
-			<td class="text-right">
-                <span id="PhyFPS" class="label label-default">
-                    <i class="glyphicon glyphicon-refresh spin"></i>
-                </span>
-            </td>
-        </tr>
+    <tr>
+        <td>SimFPS</td>
+        <td class="text-right">
+            <span id="SimFPS" class="label label-default">
+                <i class="glyphicon glyphicon-refresh spin"></i>
+            </span>
+        </td>
+    </tr>
 
-        <tr>
-			<td>AgntUp</td>
-			<td class="text-right">
-                <span id="AgntUp" class="label label-default">
-                    <i class="glyphicon glyphicon-refresh spin"></i>
-                </span>
-            </td>
-		</tr>
+    <tr>
+        <td>PhyFPS</td>
+        <td class="text-right">
+            <span id="PhyFPS" class="label label-default">
+                <i class="glyphicon glyphicon-refresh spin"></i>
+            </span>
+        </td>
+    </tr>
 
-        <tr>
-			<td>RootAg</td>
-			<td class="text-right">
-                <span id="RootAg" class="label label-default">
-                    <i class="glyphicon glyphicon-refresh spin"></i>
-                </span>
-            </td>
-		</tr>
+    <tr>
+        <td>AgntUp</td>
+        <td class="text-right">
+            <span id="AgntUp" class="label label-default">
+                <i class="glyphicon glyphicon-refresh spin"></i>
+            </span>
+        </td>
+    </tr>
 
-        <tr>
-			<td>ChldAg</td>
-			<td class="text-right">
-                <span id="ChldAg" class="label label-default">
-                    <i class="glyphicon glyphicon-refresh spin"></i>
-                </span>
-            </td>
-        </tr>
+    <tr>
+        <td>RootAg</td>
+        <td class="text-right">
+            <span id="RootAg" class="label label-default">
+                <i class="glyphicon glyphicon-refresh spin"></i>
+            </span>
+        </td>
+    </tr>
 
-        <tr>
-			<td>Prims</td>
-			<td class="text-right">
-                <span id="Prims" class="label label-default">
-                    <i class="glyphicon glyphicon-refresh spin"></i>
-                </span>
-            </td>
-        </tr>
+    <tr>
+        <td>ChldAg</td>
+        <td class="text-right">
+            <span id="ChldAg" class="label label-default">
+                <i class="glyphicon glyphicon-refresh spin"></i>
+            </span>
+        </td>
+    </tr>
 
-        <tr>
-			<td>AtvPrm</td>
-			<td class="text-right">
-                <span id="AtvPrm" class="label label-default">
-                    <i class="glyphicon glyphicon-refresh spin"></i>
-                </span>
-            </td>
-        </tr>
+    <tr>
+        <td>Prims</td>
+        <td class="text-right">
+            <span id="Prims" class="label label-default">
+                <i class="glyphicon glyphicon-refresh spin"></i>
+            </span>
+        </td>
+    </tr>
 
-        <tr>
-			<td>AtvScr</td>
-			<td class="text-right">
-                <span id="AtvScr" class="label label-default">
-                    <i class="glyphicon glyphicon-refresh spin"></i>
-                </span>
-            </td>
-        </tr>
+    <tr>
+        <td>AtvPrm</td>
+        <td class="text-right">
+            <span id="AtvPrm" class="label label-default">
+                <i class="glyphicon glyphicon-refresh spin"></i>
+            </span>
+        </td>
+    </tr>
 
-        <tr>
-			<td>ScrLPS</td>
-			<td class="text-right">
-                <span id="ScrLPS" class="label label-default">
-                    <i class="glyphicon glyphicon-refresh spin"></i>
-                </span>
-            </td>
-        </tr>
+    <tr>
+        <td>AtvScr</td>
+        <td class="text-right">
+            <span id="AtvScr" class="label label-default">
+                <i class="glyphicon glyphicon-refresh spin"></i>
+            </span>
+        </td>
+    </tr>
 
-        <tr>
-			<td>PktsIn</td>
-			<td class="text-right">
-                <span id="PktsIn" class="label label-default">
-                    <i class="glyphicon glyphicon-refresh spin"></i>
-                </span>
-            </td>
-        </tr>
+    <tr>
+        <td>ScrLPS</td>
+        <td class="text-right">
+            <span id="ScrLPS" class="label label-default">
+                <i class="glyphicon glyphicon-refresh spin"></i>
+            </span>
+        </td>
+    </tr>
 
-        <tr>
-			<td>PktOut</td>
-			<td class="text-right">
-                <span id="PktOut" class="label label-default">
-                    <i class="glyphicon glyphicon-refresh spin"></i>
-                </span>
-            </td>
-        </tr>
+    <tr>
+        <td>PktsIn</td>
+        <td class="text-right">
+            <span id="PktsIn" class="label label-default">
+                <i class="glyphicon glyphicon-refresh spin"></i>
+            </span>
+        </td>
+    </tr>
 
-        <tr>
-			<td>PendDl</td>
-			<td class="text-right">
-                <span id="PendDl" class="label label-default">
-                    <i class="glyphicon glyphicon-refresh spin"></i>
-                </span>
-            </td>
-        </tr>
+    <tr>
+        <td>PktOut</td>
+        <td class="text-right">
+            <span id="PktOut" class="label label-default">
+                <i class="glyphicon glyphicon-refresh spin"></i>
+            </span>
+        </td>
+    </tr>
 
-        <tr>
-			<td>PendUl</td>
-			<td class="text-right">
-                <span id="PendUl" class="label label-default">
-                    <i class="glyphicon glyphicon-refresh spin"></i>
-                </span>
-            </td>
-        </tr>
+    <tr>
+        <td>PendDl</td>
+        <td class="text-right">
+            <span id="PendDl" class="label label-default">
+                <i class="glyphicon glyphicon-refresh spin"></i>
+            </span>
+        </td>
+    </tr>
 
-        <tr>
-			<td>UnackB</td>
-			<td class="text-right">
-                <span id="UnackB" class="label label-default">
-                    <i class="glyphicon glyphicon-refresh spin"></i>
-                </span>
-            </td>
-        </tr>
+    <tr>
+        <td>PendUl</td>
+        <td class="text-right">
+            <span id="PendUl" class="label label-default">
+                <i class="glyphicon glyphicon-refresh spin"></i>
+            </span>
+        </td>
+    </tr>
 
-        <tr>
-			<td>TotlFt</td>
-			<td class="text-right">
-                <span id="TotlFt" class="label label-default">
-                    <i class="glyphicon glyphicon-refresh spin"></i>
-                </span>
-            </td>
-        </tr>
+    <tr>
+        <td>UnackB</td>
+        <td class="text-right">
+            <span id="UnackB" class="label label-default">
+                <i class="glyphicon glyphicon-refresh spin"></i>
+            </span>
+        </td>
+    </tr>
 
-        <tr>
-			<td>NetFt</td>
-			<td class="text-right">
-                <span id="NetFt" class="label label-default">
-                    <i class="glyphicon glyphicon-refresh spin"></i>
-                </span>
-            </td>
-        </tr>
+    <tr>
+        <td>TotlFt</td>
+        <td class="text-right">
+            <span id="TotlFt" class="label label-default">
+                <i class="glyphicon glyphicon-refresh spin"></i>
+            </span>
+        </td>
+    </tr>
 
-        <tr>
-			<td>PhysFt</td>
-			<td class="text-right">
-                <span id="PhysFt" class="label label-default">
-                    <i class="glyphicon glyphicon-refresh spin"></i>
-                </span>
-            </td>
-        </tr>
+    <tr>
+        <td>NetFt</td>
+        <td class="text-right">
+            <span id="NetFt" class="label label-default">
+                <i class="glyphicon glyphicon-refresh spin"></i>
+            </span>
+        </td>
+    </tr>
 
-        <tr>
-			<td>OthrFt</td>
-			<td class="text-right">
-                <span id="OthrFt" class="label label-default">
-                    <i class="glyphicon glyphicon-refresh spin"></i>
-                </span>
-            </td>
-        </tr>
+    <tr>
+        <td>PhysFt</td>
+        <td class="text-right">
+            <span id="PhysFt" class="label label-default">
+                <i class="glyphicon glyphicon-refresh spin"></i>
+            </span>
+        </td>
+    </tr>
 
-        <tr>
-			<td>AgntFt</td>
-			<td class="text-right">
-                <span id="AgntFt" class="label label-default">
-                    <i class="glyphicon glyphicon-refresh spin"></i>
-                </span>
-            </td>
-        </tr>
+    <tr>
+        <td>OthrFt</td>
+        <td class="text-right">
+            <span id="OthrFt" class="label label-default">
+                <i class="glyphicon glyphicon-refresh spin"></i>
+            </span>
+        </td>
+    </tr>
 
-        <tr>
-			<td>ImgsFt</td>
-			<td class="text-right">
-                <span id="ImgsFt" class="label label-default">
-                    <i class="glyphicon glyphicon-refresh spin"></i>
-                </span>
-            </td>
-        </tr>
+    <tr>
+        <td>AgntFt</td>
+        <td class="text-right">
+            <span id="AgntFt" class="label label-default">
+                <i class="glyphicon glyphicon-refresh spin"></i>
+            </span>
+        </td>
+    </tr>
 
-        <tr>
-			<td>Memory</td>
-            <td class="text-right">
-                <span id="Memory" class="label label-default">
-                    <i class="glyphicon glyphicon-refresh spin"></i>
-                </span>
-            </td>
-        </tr>
+    <tr>
+        <td>ImgsFt</td>
+        <td class="text-right">
+            <span id="ImgsFt" class="label label-default">
+                <i class="glyphicon glyphicon-refresh spin"></i>
+            </span>
+        </td>
+    </tr>
 
-        <tr>
-			<td>Uptime</td>
-            <td class="text-right">
-                <span id="Uptime" class="label label-default">
-                    <i class="glyphicon glyphicon-refresh spin"></i>
-                </span>
-            </td>
-        </tr>
+    <tr>
+        <td>Memory</td>
+        <td class="text-right">
+            <span id="Memory" class="label label-default">
+                <i class="glyphicon glyphicon-refresh spin"></i>
+            </span>
+        </td>
+    </tr>
 
-        <!--
-        <tr>
-			<td>Version</td>
-            <td class="text-right">
-                <span id="Version" class="label label-default">
-                    <i class="glyphicon glyphicon-refresh spin"></i>
-                </span>
-            </td>
-        </tr>
-        -->
+    <tr>
+        <td>Uptime</td>
+        <td class="text-right">
+            <span id="Uptime" class="label label-default">
+                <i class="glyphicon glyphicon-refresh spin"></i>
+            </span>
+        </td>
+    </tr>
 
-        <tr>
-			<td>FrameDilatn</td>
-            <td class="text-right">
-                <span id="FrameDilatn" class="label label-default">
-                    <i class="glyphicon glyphicon-refresh spin"></i>
-                </span>
-            </td>
-        </tr>
+    <!--
+    <tr>
+        <td>Version</td>
+        <td class="text-right">
+            <span id="Version" class="label label-default">
+                <i class="glyphicon glyphicon-refresh spin"></i>
+            </span>
+        </td>
+    </tr>
+    -->
 
-        <!--
-        // LoggingInUsers = data.Logging in Users;
-        -->
+    <tr>
+        <td>FrameDilatn</td>
+        <td class="text-right">
+            <span id="FrameDilatn" class="label label-default">
+                <i class="glyphicon glyphicon-refresh spin"></i>
+            </span>
+        </td>
+    </tr>
 
-        <tr>
-			<td>GeoPrims</td>
-            <td class="text-right">
-                <span id="GeoPrims" class="label label-default">
-                    <i class="glyphicon glyphicon-refresh spin"></i>
-                </span>
-            </td>
-        </tr>
+    <!--
+    // LoggingInUsers = data.Logging in Users;
+    -->
 
-        <!--
-        // MeshObjects = data.Mesh Objects;
-        // XEngineThreadCount = data.XEngine Thread Count;
-        // UtilThreadCount = data.Util Thread Count;
-        // SystemThreadCount = data.System Thread Count;
-        -->
+    <tr>
+        <td>GeoPrims</td>
+        <td class="text-right">
+            <span id="GeoPrims" class="label label-default">
+                <i class="glyphicon glyphicon-refresh spin"></i>
+            </span>
+        </td>
+    </tr>
 
-        <tr>
-			<td>ProcMem</td>
-            <td class="text-right">
-                <span id="ProcMem" class="label label-default">
-                    <i class="glyphicon glyphicon-refresh spin"></i>
-                </span>
-            </td>
-        </tr>
+    <!--
+    // MeshObjects = data.Mesh Objects;
+    // XEngineThreadCount = data.XEngine Thread Count;
+    // UtilThreadCount = data.Util Thread Count;
+    // SystemThreadCount = data.System Thread Count;
+    -->
+
+    <tr>
+        <td>ProcMem</td>
+        <td class="text-right">
+            <span id="ProcMem" class="label label-default">
+                <i class="glyphicon glyphicon-refresh spin"></i>
+            </span>
+        </td>
+    </tr>
 
     <tbody>
 	</table>
