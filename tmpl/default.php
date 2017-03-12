@@ -122,7 +122,7 @@ setInterval(function() {
 <?php endif; ?>
 
 <div class='jOpenSim_jsonstats table-responsive'>
-	<table class="table table-striped table-condensed table-hover">
+    <table class="table table-striped table-condensed table-hover">
     <thead>
         <tr>
             <th>Name:</th>
