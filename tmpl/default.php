@@ -388,5 +388,5 @@ setInterval(function() {
     </tr>
 
     <tbody>
-	</table>
+    </table>
 </div>
